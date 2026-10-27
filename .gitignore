@@ -1,0 +1,5 @@
+raw/
+processed/
+*.csv
+*.parquet
+.ipynb_checkpoints/
